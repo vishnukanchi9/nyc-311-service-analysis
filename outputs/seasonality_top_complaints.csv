@@ -1,0 +1,97 @@
+complaint_group,month_num,requests,seasonal_index
+Blocked Driveway,1,14661,101.9
+Blocked Driveway,2,12516,87.0
+Blocked Driveway,3,14150,98.3
+Blocked Driveway,4,12960,90.0
+Blocked Driveway,5,14256,99.0
+Blocked Driveway,6,14254,99.0
+Blocked Driveway,7,13401,93.1
+Blocked Driveway,8,13282,92.3
+Blocked Driveway,9,15363,106.7
+Blocked Driveway,10,15481,107.6
+Blocked Driveway,11,15990,111.1
+Blocked Driveway,12,16409,114.0
+HEAT/HOT WATER,1,67229,255.3
+HEAT/HOT WATER,2,40699,154.6
+HEAT/HOT WATER,3,26276,99.8
+HEAT/HOT WATER,4,16824,63.9
+HEAT/HOT WATER,5,7463,28.3
+HEAT/HOT WATER,6,4217,16.0
+HEAT/HOT WATER,7,3008,11.4
+HEAT/HOT WATER,8,2929,11.1
+HEAT/HOT WATER,9,3595,13.7
+HEAT/HOT WATER,10,31858,121.0
+HEAT/HOT WATER,11,47946,182.1
+HEAT/HOT WATER,12,63902,242.7
+Illegal Parking,1,43139,89.7
+Illegal Parking,2,42267,87.9
+Illegal Parking,3,53740,111.7
+Illegal Parking,4,47358,98.4
+Illegal Parking,5,51557,107.2
+Illegal Parking,6,48032,99.8
+Illegal Parking,7,47001,97.7
+Illegal Parking,8,47243,98.2
+Illegal Parking,9,54313,112.9
+Illegal Parking,10,51073,106.2
+Illegal Parking,11,47369,98.5
+Illegal Parking,12,44161,91.8
+Noise - Residential,1,70837,183.5
+Noise - Residential,2,26945,69.8
+Noise - Residential,3,28850,74.7
+Noise - Residential,4,28019,72.6
+Noise - Residential,5,32905,85.2
+Noise - Residential,6,29740,77.0
+Noise - Residential,7,26659,69.0
+Noise - Residential,8,32756,84.8
+Noise - Residential,9,36142,93.6
+Noise - Residential,10,49182,127.4
+Noise - Residential,11,43889,113.7
+Noise - Residential,12,57386,148.6
+Noise - Street/Sidewalk,1,3757,26.1
+Noise - Street/Sidewalk,2,3881,26.9
+Noise - Street/Sidewalk,3,8320,57.7
+Noise - Street/Sidewalk,4,13519,93.8
+Noise - Street/Sidewalk,5,20870,144.7
+Noise - Street/Sidewalk,6,24081,167.0
+Noise - Street/Sidewalk,7,23287,161.5
+Noise - Street/Sidewalk,8,25205,174.8
+Noise - Street/Sidewalk,9,19799,137.3
+Noise - Street/Sidewalk,10,15538,107.8
+Noise - Street/Sidewalk,11,9992,69.3
+Noise - Street/Sidewalk,12,4787,33.2
+PLUMBING,1,7662,126.5
+PLUMBING,2,5955,98.4
+PLUMBING,3,5905,97.5
+PLUMBING,4,5567,91.9
+PLUMBING,5,5304,87.6
+PLUMBING,6,6424,106.1
+PLUMBING,7,5643,93.2
+PLUMBING,8,5035,83.2
+PLUMBING,9,5520,91.2
+PLUMBING,10,6551,108.2
+PLUMBING,11,5992,99.0
+PLUMBING,12,7099,117.2
+UNSANITARY CONDITION,1,10000,101.9
+UNSANITARY CONDITION,2,7581,77.3
+UNSANITARY CONDITION,3,8401,85.6
+UNSANITARY CONDITION,4,8394,85.5
+UNSANITARY CONDITION,5,8893,90.6
+UNSANITARY CONDITION,6,9607,97.9
+UNSANITARY CONDITION,7,11867,120.9
+UNSANITARY CONDITION,8,10842,110.5
+UNSANITARY CONDITION,9,11227,114.4
+UNSANITARY CONDITION,10,11568,117.9
+UNSANITARY CONDITION,11,9677,98.6
+UNSANITARY CONDITION,12,9692,98.8
+Water System,1,6670,103.3
+Water System,2,5245,81.2
+Water System,3,3979,61.6
+Water System,4,3507,54.3
+Water System,5,3574,55.3
+Water System,6,15194,235.3
+Water System,7,15101,233.9
+Water System,8,7129,110.4
+Water System,9,4196,65.0
+Water System,10,5041,78.1
+Water System,11,3654,56.6
+Water System,12,4197,65.0

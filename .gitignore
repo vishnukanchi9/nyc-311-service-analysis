@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# Raw extract (~150 MB) and the DuckDB file are rebuilt by src/extract.py
+data/

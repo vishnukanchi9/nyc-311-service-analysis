@@ -1,0 +1,2 @@
+total_requests,distinct_request_ids,still_open,closed_before_created,zero_duration,open_over_one_year,missing_borough,missing_or_bad_zip,invalid_community_board,missing_coordinates
+3655040,3655040,55736.0,916.0,64776.0,5136.0,2607.0,29877.0,42690.0,50148.0

@@ -1,0 +1,11 @@
+community_board,complaint_group,agency,closed_requests,district_median_hours,citywide_median_hours,pct_faster_than_citywide
+15 BROOKLYN,Illegal Parking,NYPD,14663,7.1,1.5,17.8
+15 BROOKLYN,Noise - Residential,NYPD,6047,3.6,1.2,24.1
+15 BROOKLYN,Blocked Driveway,NYPD,5627,6.4,1.7,22.3
+15 BROOKLYN,HEAT/HOT WATER,HPD,3886,39.0,39.4,50.5
+15 BROOKLYN,Abandoned Vehicle,NYPD,2269,14.5,2.1,11.2
+15 BROOKLYN,General Construction/Plumbing,DOB,1481,183.2,106.5,44.6
+15 BROOKLYN,Dirty Condition,DSNY,1273,23.8,23.3,48.8
+15 BROOKLYN,UNSANITARY CONDITION,HPD,1200,179.6,254.5,61.3
+15 BROOKLYN,Derelict Vehicles,DSNY,1090,15.6,21.0,68.9
+15 BROOKLYN,Water System,DEP,1028,15.4,3.6,35.1

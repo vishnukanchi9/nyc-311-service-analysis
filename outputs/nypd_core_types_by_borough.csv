@@ -1,0 +1,16 @@
+complaint_group,borough,closed_requests,pct_of_citywide,median_hours
+Blocked Driveway,BRONX,27113,15.7,2.18
+Blocked Driveway,BROOKLYN,61840,35.8,1.68
+Blocked Driveway,STATEN ISLAND,5157,3.0,1.65
+Blocked Driveway,QUEENS,74217,43.0,1.65
+Blocked Driveway,MANHATTAN,4394,2.5,1.05
+Illegal Parking,BRONX,84418,14.6,2.27
+Illegal Parking,STATEN ISLAND,17456,3.0,1.53
+Illegal Parking,QUEENS,182171,31.6,1.48
+Illegal Parking,BROOKLYN,228556,39.6,1.43
+Illegal Parking,MANHATTAN,64634,11.2,1.02
+Noise - Residential,BRONX,209376,45.2,1.77
+Noise - Residential,QUEENS,74628,16.1,1.1
+Noise - Residential,STATEN ISLAND,10289,2.2,1.03
+Noise - Residential,BROOKLYN,103672,22.4,0.92
+Noise - Residential,MANHATTAN,65322,14.1,0.9

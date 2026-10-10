@@ -1,0 +1,26 @@
+complaint_group,primary_agency,requests,pct_closed,median_hours,p90_hours
+Illegal Parking,NYPD,577253,100.0,1.5,7.1
+Noise - Residential,NYPD,463310,100.0,1.2,8.1
+HEAT/HOT WATER,HPD,315946,99.5,39.4,76.0
+Noise - Street/Sidewalk,NYPD,173036,100.0,0.9,4.0
+Blocked Driveway,NYPD,172723,100.0,1.7,7.8
+UNSANITARY CONDITION,HPD,117749,99.7,254.5,1541.7
+Water System,DEP,77487,98.3,3.6,193.8
+PLUMBING,HPD,72657,99.6,194.9,1664.3
+Street Condition,DOT,70324,95.1,26.0,140.1
+Abandoned Vehicle,NYPD,67903,100.0,2.1,10.7
+Noise - Commercial,NYPD,63949,100.0,0.9,3.9
+Dirty Condition,DSNY,61047,98.2,23.3,78.0
+PAINT/PLASTER,HPD,59242,99.8,171.9,1214.6
+Noise,DEP,55721,100.0,66.8,214.6
+Encampment,NYPD,47998,100.0,1.8,183.7
+Traffic Signal Condition,DOT,47995,100.0,2.0,43.2
+DOOR/WINDOW,HPD,45463,99.5,287.3,1841.0
+Derelict Vehicles,DSNY,43229,99.8,21.0,66.8
+Noise - Vehicle,NYPD,43220,100.0,1.0,4.5
+Missed Collection,DSNY,42977,100.0,55.4,221.5
+Illegal Dumping,DSNY,39002,99.2,69.4,245.3
+WATER LEAK,HPD,38397,99.7,238.4,1771.9
+Homeless Person Assistance,DHS,37171,83.9,5.1,46.0
+General Construction/Plumbing,DOB,35148,100.0,106.5,3352.9
+GENERAL,HPD,33187,99.4,316.8,2075.9
